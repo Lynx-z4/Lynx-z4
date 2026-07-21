@@ -17,7 +17,7 @@
 <br/>
 
 <p>
-  Hello! <em><b> I'm Lynx </b></em>, a student and tech enthusiast. I'm passionate about Linux, programming, and building projects just for fun. I also enjoy digital design, gaming, and exploring new ideas.
+  Hello! <em><b> I'm Lynx </b></em>, a student and tech enthusiast. I'm passionate about Linux, programming, and building projects just for fun. I also enjoy digital design, gaming, and exploring new ideas 🐾.
 </p>
 
 
@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Langs </em> </h2>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Tech </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
